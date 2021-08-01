@@ -1,0 +1,204 @@
+Region,Destination,DMFCategory,TypeOf,meanLastYear,obs,PropLastYear,meanLast4,PropLast4
+SSI,Milford Road Journey,Icon,Pedestrian,-0.521264153311857,3,0,-0.363179047653801,0
+SSI,Darran/Earl Mountains backcountry,Back Country,Pedestrian,-0.388486176101936,2,0,-0.334137531669535,0
+ESI,Arthurs Pass SH73 backcountry day trips,Back Country,Pedestrian,-0.46102020797915,2,0,-0.48553118095324,0
+HWT,Whangamata walks,Local Treasure,Pedestrian,-0.132796922512241,1,0,0.059005265777797,1
+HWT,Dawson Falls (Maunga Taranaki),Gateway,Pedestrian,-0.216817171222067,2,0,-0.341724231277584,0
+ESI,Tekapo Walkway,Gateway,Pedestrian,0.558242420676158,1,1,0.000164404999670615,1
+SSI,Routeburn Track,Icon,Pedestrian,-0.157009943211731,4,0.25,-0.0297095907423366,0.5
+WSI,Greymouth/Lake Brunner walks,Local Treasure,Pedestrian,0.0132414170419016,3,0.333333333333333,-0.00394488681026422,0.666666666666667
+CNI,Whakapapa Holiday Park & Village walks,Gateway,Pedestrian,-0.523338729055046,1,0,-0.694026215056258,0
+NSI,Canaan Downs,Gateway,Pedestrian,-0.157354893206227,1,0,-0.196467991169978,0
+LNI,Cape Kidnappers Gannet Reserve,Icon,Pedestrian,14.5122410546139,1,1,20.0842391304348,1
+WSI,Cape Foulwind,Icon,Pedestrian,-0.435116424154453,2,0,-0.486609214647144,0
+WSI,Westport northern walks,Local Treasure,Pedestrian,-0.0162697499237646,1,0,0.0290213028712566,1
+AKL,Warkworth walks,Local Treasure,Pedestrian,-0.0451581137493548,3,0.333333333333333,0.353110069113365,0.333333333333333
+WSI,Lake Matheson,Icon,Pedestrian,-0.691562519538663,1,0,-0.716217879917577,0
+CNI,Tongariro Alpine Crossing,Icon,Pedestrian,-0.670519419324009,3,0,-0.697071311122924,0
+NSI,Abel Tasman Coast Track,Icon,Pedestrian,-0.32646051377691,4,0,-0.356374485218886,0
+NSI,Cobb/Mt Arthur Tablelands backcountry,Back Country,Pedestrian,-0.200801640110549,1,0,-0.240041256770053,0
+LNI,Tararua FP -Wairarapa access backcountry,Back Country,Pedestrian,0.102283261874674,1,1,0.187614882209634,1
+CNI,Kaimai Mamaku FP-east walks/picnic areas,Local Treasure,Pedestrian,-0.0924286609135732,1,0,-0.227257161522775,0
+CNI,Whirinaki backcountry,Back Country,Pedestrian,0.00438563394326669,3,0.666666666666667,0.25637534585553,1
+HWT,Pirongia FP walks & mountain bike trails,Local Treasure,Pedestrian,0.169138870805719,3,1,0.197349574133169,0.666666666666667
+SSI,Whisky Track (Blue Mountains),Local Treasure,Pedestrian,-0.382250304210172,1,0,-0.650495049504951,0
+LNI,Catchpool Valley,Gateway,Pedestrian,5.31773861746101,1,1,6.79628305932809,1
+WSI,Heaphy Track,Gateway,Pedestrian,0.0674070753734084,2,1,0.128771850166135,1
+HWT,Egmont National Park backcountry,Back Country,Pedestrian,-0.2546479859652,7,0.142857142857143,-0.19361392514468,0.142857142857143
+WSI,Paparoa coast activities,Local Treasure,Pedestrian,-0.524074740536604,2,0,-0.609455511418516,0
+SSI,Lake Hauroko/South Coast backcountry,Back Country,Pedestrian,0.220257089419534,1,1,0.262958280657396,1
+SSI,Tuatapere walks and picnic area,Local Treasure,Pedestrian,-0.0851498489589373,2,0.5,-0.0386157255678747,0.5
+SSI,Piano Flat campsite and walk,Local Treasure,Pedestrian,-0.00321543408360129,1,0,0.0112994350282486,1
+SSI,Borland Road/Borland and Monowai walks,Local Treasure,Pedestrian,-0.300552998799485,2,0,-0.403962175338845,0
+SSI,Kepler Track,Icon,Pedestrian,-0.406542913729218,1,0,-0.463605671843349,0
+NNI,Whangarei walks,Local Treasure,Pedestrian,-0.302936007541565,4,0.25,-0.375283907094554,0
+NSI,Hacket,Gateway,Pedestrian,0.133479020979021,1,1,0.146527990211074,1
+NSI,Mount Arthur,Gateway,Pedestrian,-0.16882399950044,2,0,-0.154494058177169,0
+NNI,Whangaruru,Gateway,Pedestrian,0.113211618761196,1,1,0.140641158221303,1
+SSI,Otago Central Rail Trail,Icon,Pedestrian,-0.0178080058563908,6,0.5,0.186772720495069,1
+NSI,Puponga Farm Park,Gateway,Pedestrian,-0.270246814275433,1,0,-0.278626918993613,0
+SSI,Bannockburn,Gateway,Pedestrian,-0.16245087009693,1,0,-0.263019490564092,0
+WSI,Franz Josef Valley walk,Icon,Pedestrian,-0.446273629376038,1,0,-0.574144076007367,0
+NSI,Queen Charlotte Track,Gateway,Pedestrian,-0.345909609260119,3,0,-0.42616470697491,0
+SSI,Catlins Conservation Park backcountry,Back Country,Pedestrian,-0.194295900178253,1,0,-0.269385925593904,0
+CNI,Whirinaki River Track,Gateway,Pedestrian,-0.491119503840782,1,0,-0.3519079345851,0
+HWT,Ratapihipihi,Gateway,Pedestrian,-0.0238003478683063,1,0,-0.0289074094178643,0
+HWT,North Egmont (Maunga Taranaki),Icon,Pedestrian,-0.294141058232724,1,0,-0.3334827431645,0
+CNI,Waipunga backcountry,Back Country,Pedestrian,0.211038006128167,1,1,0.505515497153752,1
+SSI,Sandymount tracks,Gateway,Pedestrian,-0.550285896773856,1,0,-0.434747221817323,0
+NNI,Tutukaka coast walks,Local Treasure,Pedestrian,-0.144453719491239,2,0,-0.321987870421408,0
+HWT,Egmont National Park walks/picnic areas,Local Treasure,Pedestrian,-0.126022784083673,1,0,-0.299205377562993,0
+NNI,Urupukapuka Island,Gateway,Pedestrian,-0.192440872209048,2,0,-0.236154509906194,0
+HWT,Broken Hills,Gateway,Pedestrian,-0.503220471098578,1,0,-0.623018199618241,0
+HWT,Cathedral Cove,Icon,Pedestrian,-0.24376390126165,2,0.5,-0.0900284362509953,0.5
+WSI,Oparara Basin,Gateway,Pedestrian,-0.163711737625431,1,0,-0.00125320795801393,0
+NNI,Bay of Islands boat access walks,Local Treasure,Pedestrian,-0.326621375398693,2,0,-0.394548707158762,0
+HWT,Stratford Plateau,Gateway,Pedestrian,0.331244522011756,1,1,-0.294156270518713,0
+CNI,Waihi walks and campsite,Local Treasure,Pedestrian,-0.123831027523519,1,0,-0.304923808908704,0
+SSI,Queenstown activities,Local Treasure,Pedestrian,-0.264316452853765,3,0,-0.437379987125459,0
+SSI,Glenorchy/Kinloch activities,Local Treasure,Pedestrian,-0.459133459343124,3,0,-0.437006430024466,0
+SSI,Greenstone/Caples Tracks,Gateway,Pedestrian,0.054212782178687,3,0.333333333333333,0.0715504590839783,0.333333333333333
+SSI,Mt Aspiring NP ReesDart/Routeburn access,Back Country,Pedestrian,0.000660475406705788,2,0.5,0.665894416233144,1
+SSI,Wanaka/Lake Hawea activities,Local Treasure,Pedestrian,-0.620304965257441,5,0,-0.585486794681102,0.2
+ESI,Aoraki/Mt Cook Village walks,Gateway,Pedestrian,-0.54795205793943,1,0,-0.657935476047315,0
+LNI,Castlepoint Scenic Reserve,Gateway,Pedestrian,0.614820222283097,1,1,0.470879193587911,1
+LNI,Holdsworth,Gateway,Pedestrian,-0.0798584298640404,1,0,-0.126716334770439,0
+NSI,Lake Rotoiti,Gateway,Door,-0.248824693534658,1,0,-0.35682885362407,0
+ESI,Banks Peninsula backcountry,Back Country,Pedestrian,0.0561747211745348,3,0.666666666666667,-0.0262089724093055,0.333333333333333
+ESI,Little River Rail Trail,Gateway,Pedestrian,0.146551280065185,2,1,0.153459352056121,1
+ESI,Godley Head mountain biking/walk,Local Treasure,Pedestrian,0.303504632634815,3,0.666666666666667,0.101404307288708,0.333333333333333
+NSI,Kaikoura Peninsula Walkway,Icon,Pedestrian,0.222911324840271,1,1,0.640506500778642,1
+CNI,Karangahake,Icon,Pedestrian,-0.0752151308591422,3,0,-0.204828658797625,0
+CNI,Kaimai Mamaku Forest Park (west) walks,Local Treasure,Pedestrian,-0.57444554729064,1,0,-0.439516459026716,0
+CNI,Rotorua Lakes backcountry,Back Country,Pedestrian,-0.464804714455844,1,0,-0.767572815533981,0
+CNI,Rotorua Lakes activities and campsites,Local Treasure,Pedestrian,-0.251025890970011,2,0,-0.596014386257676,0
+CNI,Whirinaki Te Pua-a -Tane CP activities,Local Treasure,Pedestrian,-0.00426683726314694,1,0,0.348215935777463,1
+HWT,Kauaeranga Valley Visitor Centre,Visitor Centre,Pedestrian,-0.281818435588814,1,0,-0.32143697281312,0
+WSI,Northern Lake Kaniere,Gateway,Pedestrian,0.277432061911726,1,1,0.118342260083567,1
+WSI,Hokitika activities,Local Treasure,Pedestrian,-0.453916628672168,2,0,-0.516034955799236,0
+SSI,Te Anau / Manapouri roads and walk,Local Treasure,Pedestrian,-0.502366764186369,1,0,-0.575288057214027,0
+SSI,Lawrence walks,Local Treasure,Pedestrian,-0.0571460464108561,1,0,-0.457824933687003,0
+CNI,Okere Falls,Gateway,Pedestrian,-0.454983898293398,1,0,-0.540877498497434,0
+WSI,Dolomite Point,Icon,Pedestrian,-0.520213509368673,1,0,-0.505372699230535,0
+AKL,Muriwai walks,Local Treasure,Pedestrian,-0.0898957672141761,1,0,-0.708176333176235,0
+ESI,Central Arthurs Pass backcountry,Back Country,Pedestrian,0.377932551319648,1,1,0.479362101313321,1
+CNI,Whakatane walks,Local Treasure,Pedestrian,0.0155613778479614,2,0.5,-0.242135382772602,0
+SSI,Remarkables/Hector backcountry,Back Country,Pedestrian,0.01208075770358,1,1,-0.209544541099098,0
+NSI,Takaka walks,Local Treasure,Pedestrian,-0.25017320112463,4,0,-0.261517549296061,0
+SSI,Ulva Island,Icon,Pedestrian,0.0502624758746834,2,0.5,0.029752277739081,0.5
+SSI,Stewart Island backountry,Back Country,Pedestrian,0.109527735110134,7,0.428571428571429,0.190395134722448,0.571428571428571
+NSI,Mount Arthur,Gateway,Road,0.0186849652822109,1,1,-0.324520819563781,0
+WSI,Denniston Brakehead,Icon,Road,0.317059161401493,1,1,0.378433367243133,1
+SSI,Bluff Hill/Motupohue,Gateway,Pedestrian,0.0580848089729843,1,1,-0.0643164693218515,0
+SSI,Invercargill walks and picnic areas,Local Treasure,Pedestrian,0.120719588145069,1,1,0.094093000502112,1
+LNI,Manawatu Gorge walk,Gateway,Pedestrian,-0.156245363111606,2,0,-0.21323697415743,0
+WSI,Okarito walks,Gateway,Pedestrian,-0.362283644850343,1,0,-0.545973557692308,0
+NNI,Ruapekapeka - Potential Icon,Icon,Pedestrian,-0.0843460899803423,2,0.5,0.0209554983833376,0.5
+SSI,Oteake Conservation Park backcountry,Back Country,Pedestrian,-0.0995667602108199,1,0,-0.244191047164291,0
+CNI,Mid Tongariro River Walks,Icon,Pedestrian,0.093841870407717,1,1,0.00685828639426601,1
+CNI,Kinloch/Western Bays activities,Local Treasure,Bicycle,-0.318687794413575,2,0,-0.0642408762409471,0.5
+CNI,Upper Waikato River Tracks,Gateway,Pedestrian,-0.288445649133814,1,0,-0.443406402714922,0
+CNI,Kinloch/Western Bays activities,Local Treasure,Pedestrian,0.135852795468011,1,1,0.0622426266000086,1
+HWT,Pureora Forest Park activities,Local Treasure,Road,-0.171884035126672,1,0,-0.277951740652054,0
+HWT,Ruakuri Walk,Gateway,Pedestrian,-0.579130101117104,2,0,0.274079731802235,0.5
+HWT,Waitomo/West Coast walks & picnic areas,Local Treasure,Pedestrian,-0.277016155120937,3,0,-0.253699081952351,0
+HWT,Kakaho Campsite,Gateway,Pedestrian,0.0557017144019314,1,1,0.0328201216009345,1
+HWT,Pureora Forest Park activities,Local Treasure,Pedestrian,0.436264700652203,3,0.666666666666667,-0.140624800262963,0.333333333333333
+HWT,Kaniwhaniwha Amenity Area,Gateway,Pedestrian,0.112156619758834,1,1,0.176568953070681,1
+HWT,Bombay / Meremere SH1 walks,Local Treasure,Pedestrian,0.0402170640602394,1,1,-0.0659833867924994,0
+SSI,Coastal Catlins activities,Local Treasure,Pedestrian,-0.160380525133839,2,0.5,-0.329615206382602,0
+HWT,Kauaeranga Kauri Trail,Gateway,Pedestrian,-0.37900173353853,2,0,-0.328237341974993,0
+HWT,Kauaeranga Valley,Gateway,Pedestrian,-0.114667632753225,1,0,-0.0850804711150007,0
+HWT,Whitianga walks,Local Treasure,Pedestrian,0.219255637234249,3,1,0.465979776660733,1
+SSI,Alexandra activities,Local Treasure,Pedestrian,-0.0575277308944718,1,0,-0.121086520119878,0
+SSI,Rakiura Track,Gateway,Pedestrian,-0.00852660728292183,2,0.5,-0.0216933147613448,0.5
+HWT,Piopio walks and picnic areas,Local Treasure,Pedestrian,-0.164740450538688,1,0,-0.281184668989547,0
+HWT,Thames Coast/Kauaeranga backcountry,Back Country,Pedestrian,0.477671684796209,1,1,0.151260504201681,1
+SSI,Bendigo,Gateway,Road,-0.0696282280960141,1,0,-0.133682820185818,0
+SSI,Arrowtown Chinese Settlement,Icon,Pedestrian,-0.674085089162052,1,0,-0.0266829140116555,0
+AKL,Auckland walks,Local Treasure,Pedestrian,1.56016171242603,2,1,1.040539950095,0.5
+AKL,Muriwai backcountry,Back Country,Pedestrian,0.374801827846685,1,1,0.343756558237146,1
+HWT,Tawarau/Whareorino backcountry,Back Country,Pedestrian,-0.425608188129064,1,0,-0.504202515450329,0
+LNI,Whareroa Farm,Gateway,Pedestrian,0.3345335870951,1,1,-0.241617207327824,0
+HWT,North Taranaki walks and historic sites,Local Treasure,Pedestrian,-0.834602655502568,1,0,-0.851095583861247,0
+WSI,Denniston Brakehead,Icon,Pedestrian,2.18744874331815,1,1,2.71909385576543,1
+HWT,Pureora Forest Park (north) backcountry,Back Country,Pedestrian,-0.159136604580083,1,0,-0.298280920394311,0
+CNI,Opotiki/Waioeka Gorge activities,Local Treasure,Pedestrian,-0.751189741626356,1,0,-0.814164451869057,0
+NSI,Abel Tasman National Park backcountry,Back Country,Pedestrian,-0.0390799177785214,1,0,-0.0960874568469505,0
+NSI,Te Waikoropupu Springs,Icon,Pedestrian,-0.207973585183596,1,0,-0.230921052631579,0
+LNI,Waikanae walks,Local Treasure,Pedestrian,0.284468796803873,1,1,0.0692258287815784,1
+AKL,Tiritiri Matangi Island,Icon,Pedestrian,-0.104286803351234,1,0,-0.107931021714994,0
+AKL,Aotea Track,Gateway,Pedestrian,-0.0593658097339308,2,0.5,0.322844653071127,1
+AKL,Great Barrier backcountry,Back Country,Pedestrian,-0.144732893515588,1,0,0.0905621096460791,1
+ESI,Ashburton Lakes/Hakatere activities,Local Treasure,Pedestrian,-0.706292263091842,1,0,-0.770157240278251,0
+ESI,Quail Island,Gateway,Pedestrian,-0.0180032736251201,1,0,-0.0951413342230373,0
+ESI,Otukaikino,Gateway,Pedestrian,0.232055903352648,1,1,0.254030483133545,1
+ESI,Arthur's Pass walks,Gateway,Pedestrian,-0.549694850705505,1,0,-0.687870797626895,0
+HWT,Mt Pirongia backcountry,Back Country,Pedestrian,0.110126817322291,1,1,0.157142857142857,1
+LNI,Cooks Cove/Anaura Bay walks and campsite,Local Treasure,Pedestrian,-0.174586356730539,1,0,0.0264465743698971,1
+HWT,Western Coromandel bush walks & camping,Local Treasure,Pedestrian,-0.270662786302764,1,0,-0.473330276631515,0
+SSI,Twelve Mile,Gateway,Road,-0.338352830131469,2,0,-0.36642558755784,0
+NSI,Kaikoura Peninsula Walkway,Icon,Road,0.0105886671589654,1,1,-0.298284771027688,0
+NNI,Waipoua Big Kauri walks,Icon,Pedestrian,-0.445346742469716,2,0,-0.548844461955941,0
+HWT,Pureora Timber Trail,Icon,Bicycle,0.562876894972506,1,1,0.299914310197087,1
+NNI,Opononi walks,Local Treasure,Pedestrian,0.595150803121061,2,0.5,0.372770810316181,0.5
+WSI,Old Ghost Road,Back Country,Pedestrian,0.363012853723231,2,1,0.112756690007061,1
+SSI,North Dunedin walks,Local Treasure,Pedestrian,3.20733333003533,1,1,2.37118706357957,1
+SSI,Otago Peninsula/Tunnel Beach walks,Local Treasure,Pedestrian,0.0931152485227091,2,1,0.379701903801781,1
+CNI,Tarawera Trail,Icon,Pedestrian,-0.213815284063852,1,0,-0.345396805537241,0
+WSI,Heaphy Track,Gateway,Bicycle,0.291426552064986,1,1,0.139998643224369,1
+LNI,Waioeka/Urutawa backcountry,Back Country,Pedestrian,0.0567460317460318,2,0.5,0.0209935218259975,0.5
+SSI,Twelve Mile,Gateway,Pedestrian,-0.174205267938238,1,0,-0.426628489620616,0
+NNI,Te Paki Coastal Track,Icon,Pedestrian,0.0207908741144804,2,0.5,0.259536647701704,0.5
+NNI,Kai Iwi/Maunganui Bluff walks,Local Treasure,Pedestrian,0.216701400846429,1,1,0.439648866130212,1
+NNI,Bream Head tracks,Gateway,Pedestrian,-0.0520260787443507,1,0,0.0348765741126456,1
+NNI,Kerikeri Basin,Icon,Pedestrian,-0.138660038279636,1,0,-0.263343108504399,0
+NNI,SH12 Dargaville - Brynderwyn walks,Local Treasure,Pedestrian,-0.238396464808749,1,0,-0.348818533870536,0
+NNI,Trounson,Gateway,Pedestrian,-0.245380303815912,1,0,-0.142656768475026,0
+SSI,Makarora/Haast (SH6) campsites and walks,Local Treasure,Pedestrian,-0.466932733444237,1,0,-0.391849642433608,0
+SSI,Grandview/Chain Hills backcountry,Back Country,Pedestrian,0.154977820602887,1,1,0.0189531889494234,1
+WSI,Pororari River Track,Gateway,Pedestrian,-0.642367184435136,1,0,-0.906595206945984,0
+HWT,North Taranaki backcountry,Back Country,Pedestrian,0.0722934786992507,1,1,1.0118274995809,1
+WSI,Old Ghost Road,Back Country,Bicycle,0.093147795949051,2,1,-0.00251684398647634,0.5
+NSI,Queen Charlotte Track,Gateway,Bicycle,0.0120786570325602,1,1,-0.0279588612215241,0
+ESI,Moeraki campsites and activities,Local Treasure,Pedestrian,-0.440570193736378,1,0,-0.482285194194395,0
+NSI,Nydia Walkway,Back Country,Pedestrian,0.236212029791314,1,1,0.215566123808375,1
+NSI,Queen Charlotte Drive activities,Local Treasure,Pedestrian,-0.537327442544612,1,0,-0.573589422710703,0
+NSI,Picton walks and campsites,Local Treasure,Pedestrian,-0.132964568699658,1,0,-0.326726162517614,0
+NSI,Molesworth Road Corridor,Gateway,Road,0.266424099266478,1,1,0.460699671991408,1
+SSI,Owaka walks and picnic areas,Local Treasure,Pedestrian,0.194875665426916,1,1,0.446941649984686,1
+ESI,Banks Peninsula/islands walks/picnicking,Local Treasure,Pedestrian,-0.497469950606321,1,0,-0.668838897433627,0
+HWT,Northern Coromandel walks and camping,Local Treasure,Pedestrian,0.00453013946395194,1,1,-0.0394254430988642,0
+WSI,Lyell campsite/walk,Local Treasure,Road,-0.235500626167649,1,0,-0.25655954044403,0
+HWT,Egmont National Park walks/picnic areas,Local Treasure,Road,-0.0582554133858268,1,0,-0.0245949926362298,0
+NSI,Wangapeka Valley,Gateway,Pedestrian,-0.206615532118888,1,0,-0.19179229480737,0
+WSI,Lake Paringa/Munro Beach activities,Local Treasure,Pedestrian,-0.698492462311558,1,0,-0.788506729331339,0
+SSI,West Matukituki tracks,Gateway,Pedestrian,-0.380342945309376,2,0,-0.323748992013965,0
+AKL,South Auckland backcountry,Back Country,Pedestrian,0.155887637194608,1,1,-0.086028647285821,0
+LNI,Gisborne walks and historic site,Local Treasure,Pedestrian,0.0676627642992715,1,1,-0.00883534136546185,0
+CNI,Tongariro/Erua Forests backcountry,Back Country,Road,0.124168153403779,1,1,0.219610284475243,1
+CNI,Turangi-southern Lake Taupo activities,Local Treasure,Pedestrian,0.00718926733946626,1,1,-0.0589976834714539,0
+WSI,Paparoa coast activities,Local Treasure,Road,0.353857092196288,1,1,0.422489588153633,1
+WSI,Oparara Basin,Gateway,Road,0.057158622779664,1,1,0.00201073008710447,1
+WSI,Franz Josef Valley walk,Icon,Road,-0.564360593125401,1,0,-0.665979976103168,0
+WSI,Not assigned,Not assigned,Road,-0.567758902624671,1,0,-0.65610884428008,0
+SSI,Mavora Lakes,Gateway,Road,0.00622244330069983,1,1,0.0537065052950076,1
+SSI,Rees/Dart Track,Gateway,Road,-0.272814582125189,1,0,-0.215748363943424,0
+SSI,Glenorchy/Kinloch activities,Local Treasure,Road,-0.308633605292198,1,0,-0.310303868051946,0
+NSI,Mt Richmond FP Wairau access backcountry,Back Country,Road,0.204533547423714,1,1,0.103765314449655,1
+NSI,Mount Robert,Gateway,Road,-0.261638254811095,1,0,-0.36072120749398,0
+NNI,Te Paki Coastal Track,Icon,Road,-0.0261272369735467,1,0,0.108406020863311,1
+SSI,Kepler Track,Icon,Bicycle,0.255697076413744,1,1,0.251962323390895,1
+NSI,Hanmer Rainbow Road/Lake Tennyson,Local Treasure,Road,1.96932661442609,1,1,2.11544481269285,1
+NSI,Cobb Valley,Gateway,Pedestrian,-0.0859923518986688,1,0,-0.192148072633621,0
+NSI,Mount Robert,Gateway,Pedestrian,-0.305070067809996,1,0,-0.452932479053721,0
+NSI,Pelorus Bridge,Gateway,Pedestrian,-0.284405697486984,1,0,-0.269761242150971,0
+NSI,Picton walks and campsites,Local Treasure,Road,-0.0093737703672451,1,0,-0.0941490909459342,0
+AKL,Motuihe Island,Local Treasure,Pedestrian,-0.108843537414966,1,0,0.316455696202532,1
+LNI,Kapiti Island Nature Reserve,Icon,Pedestrian,-0.00335348366871489,2,0.5,0.0551232244509256,1
+LNI,Whareroa Farm,Gateway,Bicycle,-0.051571327140053,1,0,-0.319232514197486,0
+LNI,Porirua walks,Local Treasure,Pedestrian,-0.0919242183178793,1,0,-0.190509299495915,0
+LNI,Makara Walkway,Local Treasure,Pedestrian,-0.0729077515861521,1,0,-0.295835510885806,0
+NSI,Mt Fyffe/Hakpuku backcounty,Back Country,Pedestrian,0.0870337449484185,1,1,-0.0185376805510692,0
+WSI,Westport northern walks,Local Treasure,Bicycle,-0.608979968393107,1,0,-0.312405952428089,0
+NSI,Mt Richmond FP (Nelson/Pelorus access),Back Country,Pedestrian,-0.178852943773459,1,0,-0.185375214722256,0
