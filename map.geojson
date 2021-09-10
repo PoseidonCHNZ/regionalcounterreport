@@ -15,7 +15,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-10"
       },
       "geometry": {
@@ -38,7 +38,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-06"
+        "date": "2021-07-11"
       },
       "geometry": {
         "type": "Point",
@@ -60,7 +60,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-06"
+        "date": "2021-07-11"
       },
       "geometry": {
         "type": "Point",
@@ -169,7 +169,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-06"
       },
       "geometry": {
@@ -192,7 +192,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-17"
+        "date": "2021-05-29"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +214,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-29"
+        "date": "2021-08-05"
       },
       "geometry": {
         "type": "Point",
@@ -235,7 +235,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-13"
       },
       "geometry": {
@@ -257,7 +257,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-14"
       },
       "geometry": {
@@ -279,8 +279,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-07-21"
+        "active": "navy",
+        "date": "2021-08-10"
       },
       "geometry": {
         "type": "Point",
@@ -324,7 +324,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-05"
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -346,7 +346,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-06"
+        "date": "2021-07-22"
       },
       "geometry": {
         "type": "Point",
@@ -367,7 +367,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-29"
       },
       "geometry": {
@@ -390,7 +390,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-02"
+        "date": "2021-06-17"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +411,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-18"
       },
       "geometry": {
@@ -456,7 +456,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-06"
+        "date": "2021-08-06"
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +477,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-15"
       },
       "geometry": {
@@ -500,7 +500,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -521,7 +521,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-28"
       },
       "geometry": {
@@ -543,8 +543,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-10-28"
+        "active": "navy",
+        "date": "2021-08-10"
       },
       "geometry": {
         "type": "Point",
@@ -588,7 +588,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-29"
+        "date": "2021-06-03"
       },
       "geometry": {
         "type": "Point",
@@ -654,7 +654,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-02"
+        "date": "2021-06-17"
       },
       "geometry": {
         "type": "Point",
@@ -676,7 +676,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-24"
+        "date": "2021-09-01"
       },
       "geometry": {
         "type": "Point",
@@ -698,7 +698,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-28"
+        "date": "2021-09-02"
       },
       "geometry": {
         "type": "Point",
@@ -720,7 +720,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-15"
+        "date": "2021-08-11"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +741,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-06"
       },
       "geometry": {
@@ -764,7 +764,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-24"
+        "date": "2021-09-01"
       },
       "geometry": {
         "type": "Point",
@@ -785,7 +785,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-18"
       },
       "geometry": {
@@ -807,8 +807,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-23"
+        "active": "navy",
+        "date": "2021-09-06"
       },
       "geometry": {
         "type": "Point",
@@ -830,7 +830,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-07-01"
+        "date": "2021-09-05"
       },
       "geometry": {
         "type": "Point",
@@ -896,7 +896,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-20"
+        "date": "2021-07-13"
       },
       "geometry": {
         "type": "Point",
@@ -918,7 +918,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-29"
+        "date": "2021-09-05"
       },
       "geometry": {
         "type": "Point",
@@ -939,7 +939,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-11"
       },
       "geometry": {
@@ -962,7 +962,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-13"
+        "date": "2021-09-03"
       },
       "geometry": {
         "type": "Point",
@@ -983,7 +983,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-22"
       },
       "geometry": {
@@ -1005,7 +1005,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-22"
       },
       "geometry": {
@@ -1027,8 +1027,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-10-06"
+        "active": "navy",
+        "date": "2021-07-19"
       },
       "geometry": {
         "type": "Point",
@@ -1071,8 +1071,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-11-01"
+        "active": "navy",
+        "date": "2021-07-18"
       },
       "geometry": {
         "type": "Point",
@@ -1093,7 +1093,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-11"
       },
       "geometry": {
@@ -1137,8 +1137,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-01-28"
+        "active": "navy",
+        "date": "2021-08-10"
       },
       "geometry": {
         "type": "Point",
@@ -1181,7 +1181,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-24"
       },
       "geometry": {
@@ -1225,8 +1225,8 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
-        "date": "2021-04-30"
+        "active": "blue",
+        "date": "2021-05-27"
       },
       "geometry": {
         "type": "Point",
@@ -1314,7 +1314,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-08"
+        "date": "2021-09-02"
       },
       "geometry": {
         "type": "Point",
@@ -1335,8 +1335,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "red",
-        "date": "2019-06-25"
+        "active": "navy",
+        "date": "2021-08-05"
       },
       "geometry": {
         "type": "Point",
@@ -1358,7 +1358,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-14"
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1401,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-10"
       },
       "geometry": {
@@ -1445,8 +1445,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-07-31"
+        "active": "navy",
+        "date": "2021-07-28"
       },
       "geometry": {
         "type": "Point",
@@ -1468,7 +1468,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-31"
+        "date": "2021-07-27"
       },
       "geometry": {
         "type": "Point",
@@ -1490,7 +1490,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-03"
+        "date": "2021-08-02"
       },
       "geometry": {
         "type": "Point",
@@ -1511,7 +1511,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-07"
       },
       "geometry": {
@@ -1534,7 +1534,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-24"
+        "date": "2021-07-25"
       },
       "geometry": {
         "type": "Point",
@@ -1555,7 +1555,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-19"
       },
       "geometry": {
@@ -1577,8 +1577,8 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-12-15"
+        "active": "navy",
+        "date": "2021-06-18"
       },
       "geometry": {
         "type": "Point",
@@ -1622,7 +1622,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-05"
+        "date": "2021-09-05"
       },
       "geometry": {
         "type": "Point",
@@ -1688,7 +1688,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-24"
+        "date": "2021-07-07"
       },
       "geometry": {
         "type": "Point",
@@ -1709,7 +1709,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-03"
       },
       "geometry": {
@@ -1753,7 +1753,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-03"
       },
       "geometry": {
@@ -1775,8 +1775,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-12-01"
+        "active": "navy",
+        "date": "2021-08-12"
       },
       "geometry": {
         "type": "Point",
@@ -1864,7 +1864,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-25"
+        "date": "2021-07-08"
       },
       "geometry": {
         "type": "Point",
@@ -1908,7 +1908,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-03"
+        "date": "2021-07-21"
       },
       "geometry": {
         "type": "Point",
@@ -1952,7 +1952,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-04"
+        "date": "2021-09-01"
       },
       "geometry": {
         "type": "Point",
@@ -1973,7 +1973,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-23"
       },
       "geometry": {
@@ -2018,7 +2018,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-08"
+        "date": "2021-08-11"
       },
       "geometry": {
         "type": "Point",
@@ -2040,7 +2040,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-12"
+        "date": "2021-08-05"
       },
       "geometry": {
         "type": "Point",
@@ -2062,7 +2062,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-12"
+        "date": "2021-08-06"
       },
       "geometry": {
         "type": "Point",
@@ -2170,7 +2170,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-16"
       },
       "geometry": {
@@ -2193,7 +2193,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-11"
+        "date": "2021-05-25"
       },
       "geometry": {
         "type": "Point",
@@ -2215,7 +2215,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-06-30"
+        "date": "2021-08-01"
       },
       "geometry": {
         "type": "Point",
@@ -2236,8 +2236,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-10"
+        "active": "navy",
+        "date": "2021-08-12"
       },
       "geometry": {
         "type": "Point",
@@ -2258,8 +2258,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-10"
+        "active": "navy",
+        "date": "2021-06-30"
       },
       "geometry": {
         "type": "Point",
@@ -2281,7 +2281,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-07-01"
       },
       "geometry": {
         "type": "Point",
@@ -2303,7 +2303,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-24"
+        "date": "2021-07-07"
       },
       "geometry": {
         "type": "Point",
@@ -2325,7 +2325,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-11"
+        "date": "2021-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -2347,7 +2347,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-04"
+        "date": "2021-07-20"
       },
       "geometry": {
         "type": "Point",
@@ -2369,7 +2369,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-05"
+        "date": "2021-07-13"
       },
       "geometry": {
         "type": "Point",
@@ -2391,7 +2391,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-11"
+        "date": "2021-08-09"
       },
       "geometry": {
         "type": "Point",
@@ -2434,8 +2434,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-09-12"
+        "active": "navy",
+        "date": "2021-07-15"
       },
       "geometry": {
         "type": "Point",
@@ -2456,8 +2456,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-12-16"
+        "active": "navy",
+        "date": "2021-07-28"
       },
       "geometry": {
         "type": "Point",
@@ -2522,7 +2522,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-10"
       },
       "geometry": {
@@ -2544,7 +2544,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-15"
       },
       "geometry": {
@@ -2566,7 +2566,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-20"
       },
       "geometry": {
@@ -2654,7 +2654,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-30"
       },
       "geometry": {
@@ -2677,7 +2677,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-12"
+        "date": "2021-09-07"
       },
       "geometry": {
         "type": "Point",
@@ -2721,7 +2721,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-09"
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -2764,7 +2764,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-06"
       },
       "geometry": {
@@ -2809,7 +2809,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-26"
+        "date": "2021-06-02"
       },
       "geometry": {
         "type": "Point",
@@ -2831,7 +2831,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-20"
+        "date": "2021-07-22"
       },
       "geometry": {
         "type": "Point",
@@ -2852,8 +2852,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-12-23"
+        "active": "navy",
+        "date": "2021-06-18"
       },
       "geometry": {
         "type": "Point",
@@ -2874,7 +2874,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-28"
       },
       "geometry": {
@@ -2896,7 +2896,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
+        "active": "red",
         "date": "2020-06-17"
       },
       "geometry": {
@@ -2919,7 +2919,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-10"
+        "date": "2021-09-02"
       },
       "geometry": {
         "type": "Point",
@@ -2941,7 +2941,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-06"
+        "date": "2021-08-12"
       },
       "geometry": {
         "type": "Point",
@@ -2984,8 +2984,8 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-05"
+        "active": "navy",
+        "date": "2021-07-15"
       },
       "geometry": {
         "type": "Point",
@@ -3007,7 +3007,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-16"
+        "date": "2021-05-29"
       },
       "geometry": {
         "type": "Point",
@@ -3028,7 +3028,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-08"
       },
       "geometry": {
@@ -3051,7 +3051,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-26"
+        "date": "2021-08-15"
       },
       "geometry": {
         "type": "Point",
@@ -3094,7 +3094,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-09"
+        "date": "2021-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -3203,7 +3203,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-14"
       },
       "geometry": {
@@ -3225,7 +3225,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-11"
       },
       "geometry": {
@@ -3247,7 +3247,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-12"
       },
       "geometry": {
@@ -3269,7 +3269,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-08"
       },
       "geometry": {
@@ -3313,7 +3313,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-06"
       },
       "geometry": {
@@ -3336,7 +3336,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-19"
+        "date": "2021-08-03"
       },
       "geometry": {
         "type": "Point",
@@ -3357,8 +3357,8 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-16"
+        "active": "navy",
+        "date": "2021-08-16"
       },
       "geometry": {
         "type": "Point",
@@ -3423,8 +3423,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-01-22"
+        "active": "navy",
+        "date": "2021-07-25"
       },
       "geometry": {
         "type": "Point",
@@ -3445,7 +3445,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-28"
       },
       "geometry": {
@@ -3468,7 +3468,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-06-20"
+        "date": "2021-07-26"
       },
       "geometry": {
         "type": "Point",
@@ -3489,7 +3489,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-11"
       },
       "geometry": {
@@ -3511,7 +3511,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-14"
       },
       "geometry": {
@@ -3556,7 +3556,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-02"
+        "date": "2021-06-30"
       },
       "geometry": {
         "type": "Point",
@@ -3578,7 +3578,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-07"
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -3600,7 +3600,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-13"
+        "date": "2021-07-06"
       },
       "geometry": {
         "type": "Point",
@@ -3621,8 +3621,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-10"
+        "active": "navy",
+        "date": "2021-07-08"
       },
       "geometry": {
         "type": "Point",
@@ -3643,7 +3643,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-07"
       },
       "geometry": {
@@ -3665,7 +3665,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-08"
       },
       "geometry": {
@@ -3687,7 +3687,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-01"
       },
       "geometry": {
@@ -3709,7 +3709,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-13"
       },
       "geometry": {
@@ -3732,7 +3732,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-31"
+        "date": "2021-08-01"
       },
       "geometry": {
         "type": "Point",
@@ -3754,7 +3754,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-20"
+        "date": "2021-06-28"
       },
       "geometry": {
         "type": "Point",
@@ -3795,8 +3795,8 @@
         "InstallLocation": "Whakanui Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-10-28"
+        "active": "navy",
+        "date": "2021-07-26"
       },
       "geometry": {
         "type": "Point",
@@ -3839,7 +3839,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-31"
+        "date": "2021-08-11"
       },
       "geometry": {
         "type": "Point",
@@ -3881,7 +3881,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-05"
+        "date": "2021-08-03"
       },
       "geometry": {
         "type": "Point",
@@ -3903,7 +3903,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-05"
+        "date": "2021-07-11"
       },
       "geometry": {
         "type": "Point",
@@ -3924,7 +3924,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-12"
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -3945,7 +3945,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-01"
       },
       "geometry": {
@@ -4055,7 +4055,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-07-14"
+        "date": "2021-08-02"
       },
       "geometry": {
         "type": "Point",
@@ -4077,7 +4077,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-08-02"
       },
       "geometry": {
         "type": "Point",
@@ -4098,8 +4098,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
-        "date": "2021-03-11"
+        "active": "blue",
+        "date": "2021-05-24"
       },
       "geometry": {
         "type": "Point",
@@ -4121,7 +4121,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-21"
+        "date": "2021-08-11"
       },
       "geometry": {
         "type": "Point",
@@ -4143,7 +4143,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-13"
+        "date": "2021-07-25"
       },
       "geometry": {
         "type": "Point",
@@ -4165,7 +4165,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-13"
+        "date": "2021-07-29"
       },
       "geometry": {
         "type": "Point",
@@ -4186,8 +4186,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-10-05"
+        "active": "navy",
+        "date": "2021-07-18"
       },
       "geometry": {
         "type": "Point",
@@ -4208,8 +4208,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-10-05"
+        "active": "navy",
+        "date": "2021-07-19"
       },
       "geometry": {
         "type": "Point",
@@ -4230,8 +4230,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-10-19"
+        "active": "navy",
+        "date": "2021-07-22"
       },
       "geometry": {
         "type": "Point",
@@ -4275,7 +4275,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-05"
+        "date": "2021-06-19"
       },
       "geometry": {
         "type": "Point",
@@ -4296,8 +4296,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-18"
+        "active": "navy",
+        "date": "2021-07-20"
       },
       "geometry": {
         "type": "Point",
@@ -4384,7 +4384,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-01"
+        "date": "2021-09-02"
       },
       "geometry": {
         "type": "Point",
@@ -4406,7 +4406,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-24"
+        "date": "2021-06-28"
       },
       "geometry": {
         "type": "Point",
@@ -4427,8 +4427,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-19"
+        "active": "navy",
+        "date": "2021-06-28"
       },
       "geometry": {
         "type": "Point",
@@ -4450,7 +4450,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-24"
+        "date": "2021-06-28"
       },
       "geometry": {
         "type": "Point",
@@ -4472,7 +4472,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-24"
+        "date": "2021-06-28"
       },
       "geometry": {
         "type": "Point",
@@ -4493,8 +4493,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-10"
+        "active": "navy",
+        "date": "2021-06-28"
       },
       "geometry": {
         "type": "Point",
@@ -4516,7 +4516,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-07"
+        "date": "2021-06-27"
       },
       "geometry": {
         "type": "Point",
@@ -4537,8 +4537,8 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-06-04"
+        "active": "blue",
+        "date": "2021-05-20"
       },
       "geometry": {
         "type": "Point",
@@ -4581,7 +4581,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-02"
       },
       "geometry": {
@@ -4603,7 +4603,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-01"
       },
       "geometry": {
@@ -4669,8 +4669,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "red",
-        "date": "2020-01-28"
+        "active": "yellow",
+        "date": "2020-09-22"
       },
       "geometry": {
         "type": "Point",
@@ -4714,7 +4714,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-16"
+        "date": "2021-05-28"
       },
       "geometry": {
         "type": "Point",
@@ -4734,8 +4734,8 @@
         "InstallLocation": "Wiremu Merito Reserve Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-06-30"
+        "active": "navy",
+        "date": "2021-08-05"
       },
       "geometry": {
         "type": "Point",
@@ -4757,7 +4757,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-12"
+        "date": "2021-08-05"
       },
       "geometry": {
         "type": "Point",
@@ -4779,7 +4779,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-31"
+        "date": "2021-08-02"
       },
       "geometry": {
         "type": "Point",
@@ -4800,8 +4800,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-01-13"
+        "active": "navy",
+        "date": "2021-06-21"
       },
       "geometry": {
         "type": "Point",
@@ -4823,7 +4823,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-15"
+        "date": "2021-08-06"
       },
       "geometry": {
         "type": "Point",
@@ -4845,7 +4845,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-10"
+        "date": "2021-09-01"
       },
       "geometry": {
         "type": "Point",
@@ -4866,8 +4866,8 @@
         "TypeOf": "Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-11-26"
+        "active": "navy",
+        "date": "2021-07-06"
       },
       "geometry": {
         "type": "Point",
@@ -4887,7 +4887,7 @@
         "InstallLocation": "Mangakahika Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-06"
       },
       "geometry": {
@@ -4910,7 +4910,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-10"
+        "date": "2021-08-17"
       },
       "geometry": {
         "type": "Point",
@@ -4931,7 +4931,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-12"
+        "date": "2021-09-06"
       },
       "geometry": {
         "type": "Point",
@@ -4953,7 +4953,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-30"
+        "date": "2021-08-11"
       },
       "geometry": {
         "type": "Point",
@@ -4974,7 +4974,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-11"
       },
       "geometry": {
@@ -4997,7 +4997,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-06-09"
+        "date": "2021-07-29"
       },
       "geometry": {
         "type": "Point",
@@ -5084,8 +5084,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
-        "date": "2021-04-02"
+        "active": "blue",
+        "date": "2021-05-26"
       },
       "geometry": {
         "type": "Point",
@@ -5106,8 +5106,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-12-02"
+        "active": "navy",
+        "date": "2021-06-03"
       },
       "geometry": {
         "type": "Point",
@@ -5128,7 +5128,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-16"
       },
       "geometry": {
@@ -5150,7 +5150,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-07"
+        "date": "2021-06-30"
       },
       "geometry": {
         "type": "Point",
@@ -5193,7 +5193,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-06-22"
+        "date": "2021-07-29"
       },
       "geometry": {
         "type": "Point",
@@ -5237,7 +5237,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-03"
+        "date": "2021-07-01"
       },
       "geometry": {
         "type": "Point",
@@ -5281,7 +5281,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-25"
+        "date": "2021-07-26"
       },
       "geometry": {
         "type": "Point",
@@ -5303,7 +5303,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-08"
+        "date": "2021-07-16"
       },
       "geometry": {
         "type": "Point",
@@ -5325,7 +5325,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-07-07"
       },
       "geometry": {
         "type": "Point",
@@ -5347,7 +5347,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-07-07"
       },
       "geometry": {
         "type": "Point",
@@ -5369,7 +5369,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-07-21"
       },
       "geometry": {
         "type": "Point",
@@ -5391,7 +5391,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-28"
+        "date": "2021-07-21"
       },
       "geometry": {
         "type": "Point",
@@ -5413,7 +5413,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-29"
+        "date": "2021-07-23"
       },
       "geometry": {
         "type": "Point",
@@ -5435,7 +5435,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-07-22"
       },
       "geometry": {
         "type": "Point",
@@ -5456,8 +5456,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-12"
+        "active": "navy",
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -5478,8 +5478,8 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-12"
+        "active": "navy",
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -5500,7 +5500,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-10"
       },
       "geometry": {
@@ -5544,8 +5544,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-10"
+        "active": "navy",
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -5567,7 +5567,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-07-01"
+        "date": "2021-08-03"
       },
       "geometry": {
         "type": "Point",
@@ -5589,7 +5589,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-06-27"
+        "date": "2021-08-03"
       },
       "geometry": {
         "type": "Point",
@@ -5611,7 +5611,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-22"
+        "date": "2021-07-30"
       },
       "geometry": {
         "type": "Point",
@@ -5632,7 +5632,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
+        "active": "red",
         "date": "2020-06-17"
       },
       "geometry": {
@@ -5654,8 +5654,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-12-04"
+        "active": "navy",
+        "date": "2021-08-09"
       },
       "geometry": {
         "type": "Point",
@@ -5675,8 +5675,8 @@
         "InstallLocation": "Catchpool Road",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-04-21"
+        "active": "navy",
+        "date": "2021-08-11"
       },
       "geometry": {
         "type": "Point",
@@ -5741,8 +5741,8 @@
         "TypeOf": "Pedestrian",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-01-19"
+        "active": "navy",
+        "date": "2021-07-13"
       },
       "geometry": {
         "type": "Point",
@@ -5763,7 +5763,7 @@
         "TypeOf": "Vehicle Counter - Low Speed",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-13"
       },
       "geometry": {
@@ -5830,7 +5830,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-07-25"
+        "date": "2021-08-31"
       },
       "geometry": {
         "type": "Point",
@@ -5851,7 +5851,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
+        "active": "red",
         "date": "2020-06-29"
       },
       "geometry": {
@@ -5873,7 +5873,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-16"
       },
       "geometry": {
@@ -5917,7 +5917,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-03"
       },
       "geometry": {
@@ -5939,7 +5939,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-22"
       },
       "geometry": {
@@ -5961,7 +5961,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-04"
       },
       "geometry": {
@@ -6005,7 +6005,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-04"
       },
       "geometry": {
@@ -6049,7 +6049,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-16"
       },
       "geometry": {
@@ -6071,7 +6071,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-04"
+        "date": "2021-07-14"
       },
       "geometry": {
         "type": "Point",
@@ -6092,7 +6092,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-04"
+        "date": "2021-07-15"
       },
       "geometry": {
         "type": "Point",
@@ -6178,7 +6178,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-04"
+        "date": "2021-07-07"
       },
       "geometry": {
         "type": "Point",
@@ -6285,7 +6285,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-13"
+        "date": "2021-08-01"
       },
       "geometry": {
         "type": "Point",
@@ -6457,7 +6457,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-14"
       },
       "geometry": {
@@ -6480,7 +6480,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-16"
+        "date": "2021-08-01"
       },
       "geometry": {
         "type": "Point",
@@ -6544,7 +6544,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-22"
       },
       "geometry": {
@@ -6566,7 +6566,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-14"
       },
       "geometry": {
@@ -6611,7 +6611,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-29"
+        "date": "2021-06-09"
       },
       "geometry": {
         "type": "Point",
@@ -6633,7 +6633,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-12"
+        "date": "2021-06-02"
       },
       "geometry": {
         "type": "Point",
@@ -6654,8 +6654,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-01-11"
+        "active": "navy",
+        "date": "2021-07-22"
       },
       "geometry": {
         "type": "Point",
@@ -6676,7 +6676,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-26"
       },
       "geometry": {
@@ -6699,7 +6699,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-16"
+        "date": "2021-07-19"
       },
       "geometry": {
         "type": "Point",
@@ -6721,7 +6721,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-18"
+        "date": "2021-07-19"
       },
       "geometry": {
         "type": "Point",
@@ -6765,7 +6765,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-17"
+        "date": "2021-07-19"
       },
       "geometry": {
         "type": "Point",
@@ -6787,7 +6787,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-06-16"
+        "date": "2021-08-17"
       },
       "geometry": {
         "type": "Point",
@@ -6808,7 +6808,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-05"
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -6851,7 +6851,7 @@
         "TypeOf": "Vehicle Counter - Pneumatic",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-11"
       },
       "geometry": {
@@ -6896,7 +6896,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-13"
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -6917,7 +6917,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-01"
       },
       "geometry": {
@@ -6939,7 +6939,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-01"
       },
       "geometry": {
@@ -6983,7 +6983,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-04"
       },
       "geometry": {
@@ -7005,8 +7005,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
-        "date": "2021-04-07"
+        "active": "blue",
+        "date": "2021-05-05"
       },
       "geometry": {
         "type": "Point",
@@ -7027,7 +7027,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-06"
       },
       "geometry": {
@@ -7048,8 +7048,8 @@
         "InstallLocation": "Hihikiwi Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-03"
+        "active": "navy",
+        "date": "2021-06-09"
       },
       "geometry": {
         "type": "Point",
@@ -7070,7 +7070,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-24"
       },
       "geometry": {
@@ -7092,8 +7092,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-19"
+        "active": "navy",
+        "date": "2021-05-31"
       },
       "geometry": {
         "type": "Point",
@@ -7115,7 +7115,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-12"
+        "date": "2021-08-11"
       },
       "geometry": {
         "type": "Point",
@@ -7136,7 +7136,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-13"
       },
       "geometry": {
@@ -7181,7 +7181,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-02"
+        "date": "2021-07-29"
       },
       "geometry": {
         "type": "Point",
@@ -7203,7 +7203,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-19"
+        "date": "2021-07-26"
       },
       "geometry": {
         "type": "Point",
@@ -7224,8 +7224,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-26"
+        "active": "navy",
+        "date": "2021-08-17"
       },
       "geometry": {
         "type": "Point",
@@ -7246,8 +7246,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-18"
+        "active": "navy",
+        "date": "2021-08-02"
       },
       "geometry": {
         "type": "Point",
@@ -7311,7 +7311,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-07"
       },
       "geometry": {
@@ -7333,7 +7333,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-07"
       },
       "geometry": {
@@ -7355,7 +7355,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-07"
       },
       "geometry": {
@@ -7400,7 +7400,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-06"
+        "date": "2021-07-27"
       },
       "geometry": {
         "type": "Point",
@@ -7421,7 +7421,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-30"
       },
       "geometry": {
@@ -7443,8 +7443,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-01-31"
+        "active": "navy",
+        "date": "2021-07-28"
       },
       "geometry": {
         "type": "Point",
@@ -7466,7 +7466,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-09"
+        "date": "2021-07-28"
       },
       "geometry": {
         "type": "Point",
@@ -7487,8 +7487,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "red",
-        "date": "2019-07-17"
+        "active": "yellow",
+        "date": "2021-03-31"
       },
       "geometry": {
         "type": "Point",
@@ -7509,7 +7509,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-13"
       },
       "geometry": {
@@ -7532,7 +7532,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-14"
+        "date": "2021-07-30"
       },
       "geometry": {
         "type": "Point",
@@ -7553,8 +7553,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-10"
+        "active": "navy",
+        "date": "2021-07-06"
       },
       "geometry": {
         "type": "Point",
@@ -7575,8 +7575,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-10"
+        "active": "navy",
+        "date": "2021-07-06"
       },
       "geometry": {
         "type": "Point",
@@ -7598,7 +7598,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-07-23"
       },
       "geometry": {
         "type": "Point",
@@ -7619,8 +7619,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-10"
+        "active": "navy",
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -7642,7 +7642,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-07-21"
       },
       "geometry": {
         "type": "Point",
@@ -7663,8 +7663,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-11"
+        "active": "navy",
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -7686,7 +7686,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-07-22"
       },
       "geometry": {
         "type": "Point",
@@ -7708,7 +7708,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-28"
+        "date": "2021-07-23"
       },
       "geometry": {
         "type": "Point",
@@ -7730,7 +7730,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-07-23"
       },
       "geometry": {
         "type": "Point",
@@ -7752,7 +7752,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-06"
+        "date": "2021-09-06"
       },
       "geometry": {
         "type": "Point",
@@ -7773,7 +7773,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-05"
       },
       "geometry": {
@@ -7796,7 +7796,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-04"
+        "date": "2021-07-29"
       },
       "geometry": {
         "type": "Point",
@@ -7817,7 +7817,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-04"
       },
       "geometry": {
@@ -7883,7 +7883,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-05"
       },
       "geometry": {
@@ -7905,8 +7905,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-01-21"
+        "active": "navy",
+        "date": "2021-07-20"
       },
       "geometry": {
         "type": "Point",
@@ -7926,7 +7926,7 @@
         "InstallLocation": "Hihi Trig Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
+        "active": "red",
         "date": "2020-06-08"
       },
       "geometry": {
@@ -7949,7 +7949,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-12"
+        "date": "2021-07-15"
       },
       "geometry": {
         "type": "Point",
@@ -7971,7 +7971,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-29"
+        "date": "2021-07-15"
       },
       "geometry": {
         "type": "Point",
@@ -7993,7 +7993,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-11"
+        "date": "2021-07-27"
       },
       "geometry": {
         "type": "Point",
@@ -8015,7 +8015,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-07"
+        "date": "2021-07-01"
       },
       "geometry": {
         "type": "Point",
@@ -8058,7 +8058,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-31"
+        "date": "2021-08-11"
       },
       "geometry": {
         "type": "Point",
@@ -8079,7 +8079,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-28"
       },
       "geometry": {
@@ -8102,7 +8102,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-03"
+        "date": "2021-07-07"
       },
       "geometry": {
         "type": "Point",
@@ -8124,7 +8124,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-04"
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -8145,8 +8145,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-09-15"
+        "active": "navy",
+        "date": "2021-06-16"
       },
       "geometry": {
         "type": "Point",
@@ -8168,7 +8168,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-07-13"
+        "date": "2021-08-02"
       },
       "geometry": {
         "type": "Point",
@@ -8189,8 +8189,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-09-01"
+        "active": "navy",
+        "date": "2021-09-06"
       },
       "geometry": {
         "type": "Point",
@@ -8211,7 +8211,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-14"
       },
       "geometry": {
@@ -8234,7 +8234,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-03"
+        "date": "2021-08-06"
       },
       "geometry": {
         "type": "Point",
@@ -8256,7 +8256,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-13"
+        "date": "2021-06-30"
       },
       "geometry": {
         "type": "Point",
@@ -8277,7 +8277,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-14"
       },
       "geometry": {
@@ -8298,7 +8298,7 @@
         "InstallLocation": "Whitecliffs Walkway",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-13"
       },
       "geometry": {
@@ -8363,7 +8363,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-04"
       },
       "geometry": {
@@ -8386,7 +8386,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-27"
+        "date": "2021-08-27"
       },
       "geometry": {
         "type": "Point",
@@ -8430,7 +8430,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-29"
+        "date": "2021-08-31"
       },
       "geometry": {
         "type": "Point",
@@ -8451,8 +8451,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-12-17"
+        "active": "navy",
+        "date": "2021-06-18"
       },
       "geometry": {
         "type": "Point",
@@ -8493,7 +8493,7 @@
         "InstallLocation": "St James Cycle T, Mailing Pass",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-04"
       },
       "geometry": {
@@ -8537,8 +8537,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-03"
+        "active": "navy",
+        "date": "2021-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -8560,7 +8560,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-10"
+        "date": "2021-09-01"
       },
       "geometry": {
         "type": "Point",
@@ -8581,7 +8581,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-11"
       },
       "geometry": {
@@ -8624,8 +8624,8 @@
         "InstallLocation": "Kakepuku Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-01-22"
+        "active": "navy",
+        "date": "2021-08-13"
       },
       "geometry": {
         "type": "Point",
@@ -8645,7 +8645,7 @@
         "InstallLocation": "Waterworks Walk",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-22"
       },
       "geometry": {
@@ -8667,8 +8667,8 @@
         "TypeOf": "Pedestrian",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-11"
+        "active": "navy",
+        "date": "2021-06-23"
       },
       "geometry": {
         "type": "Point",
@@ -8689,7 +8689,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-30"
       },
       "geometry": {
@@ -8712,7 +8712,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-14"
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -8734,7 +8734,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-02"
+        "date": "2021-08-30"
       },
       "geometry": {
         "type": "Point",
@@ -8756,7 +8756,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-15"
+        "date": "2021-06-01"
       },
       "geometry": {
         "type": "Point",
@@ -8778,7 +8778,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-26"
+        "date": "2021-08-27"
       },
       "geometry": {
         "type": "Point",
@@ -8819,7 +8819,7 @@
         "InstallLocation": "Sunrise Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-25"
       },
       "geometry": {
@@ -8840,7 +8840,7 @@
         "InstallLocation": "Swamp Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-27"
       },
       "geometry": {
@@ -8862,7 +8862,7 @@
         "TypeOf": "Track",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-12"
       },
       "geometry": {
@@ -8884,7 +8884,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-04"
+        "date": "2021-07-07"
       },
       "geometry": {
         "type": "Point",
@@ -8904,7 +8904,7 @@
         "InstallLocation": "Coppermine Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-22"
       },
       "geometry": {
@@ -8992,7 +8992,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-04"
+        "date": "2021-07-28"
       },
       "geometry": {
         "type": "Point",
@@ -9014,7 +9014,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-05"
+        "date": "2021-05-25"
       },
       "geometry": {
         "type": "Point",
@@ -9035,8 +9035,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "red",
-        "date": "2019-04-07"
+        "active": "navy",
+        "date": "2021-09-02"
       },
       "geometry": {
         "type": "Point",
@@ -9057,7 +9057,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-28"
       },
       "geometry": {
@@ -9101,8 +9101,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "red",
-        "date": "2019-06-27"
+        "active": "navy",
+        "date": "2021-09-05"
       },
       "geometry": {
         "type": "Point",
@@ -9123,7 +9123,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-11"
       },
       "geometry": {
@@ -9145,7 +9145,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-28"
       },
       "geometry": {
@@ -9167,7 +9167,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-02"
       },
       "geometry": {
@@ -9211,7 +9211,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-11"
       },
       "geometry": {
@@ -9234,7 +9234,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-06"
+        "date": "2021-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -9255,7 +9255,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-12"
+        "date": "2021-07-21"
       },
       "geometry": {
         "type": "Point",
@@ -9275,7 +9275,7 @@
         "InstallLocation": "Kauaeranga Nature Walk",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-30"
       },
       "geometry": {
@@ -9296,7 +9296,7 @@
         "InstallLocation": "Waiau Kauri Grove Short Walk",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-13"
       },
       "geometry": {
@@ -9317,7 +9317,7 @@
         "InstallLocation": "Waimama Bay Walk",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-17"
       },
       "geometry": {
@@ -9339,7 +9339,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-16"
+        "date": "2021-08-05"
       },
       "geometry": {
         "type": "Point",
@@ -9359,7 +9359,7 @@
         "InstallLocation": "Whitianga Rock Walk",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
+        "active": "red",
         "date": "2020-06-11"
       },
       "geometry": {
@@ -9380,7 +9380,7 @@
         "InstallLocation": "Hahei Beach Walk",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-12"
       },
       "geometry": {
@@ -9402,7 +9402,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-07"
+        "date": "2021-07-27"
       },
       "geometry": {
         "type": "Point",
@@ -9423,7 +9423,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-31"
       },
       "geometry": {
@@ -9490,7 +9490,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-12"
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -9512,7 +9512,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-07"
+        "date": "2021-07-11"
       },
       "geometry": {
         "type": "Point",
@@ -9534,7 +9534,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-13"
+        "date": "2021-07-06"
       },
       "geometry": {
         "type": "Point",
@@ -9556,7 +9556,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-22"
+        "date": "2021-06-28"
       },
       "geometry": {
         "type": "Point",
@@ -9597,7 +9597,7 @@
         "InstallLocation": "Hope Kiwi Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-04"
       },
       "geometry": {
@@ -9662,8 +9662,8 @@
         "TypeOf": "Pedestrian",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-12-01"
+        "active": "blue",
+        "date": "2021-05-14"
       },
       "geometry": {
         "type": "Point",
@@ -9684,7 +9684,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-10"
       },
       "geometry": {
@@ -9706,7 +9706,7 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-18"
       },
       "geometry": {
@@ -9728,8 +9728,8 @@
         "TypeOf": "Pedestrian",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-12-07"
+        "active": "navy",
+        "date": "2021-06-16"
       },
       "geometry": {
         "type": "Point",
@@ -9750,7 +9750,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "yellow",
-        "date": "2020-07-14"
+        "date": "2021-03-30"
       },
       "geometry": {
         "type": "Point",
@@ -9772,7 +9772,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-30"
+        "date": "2021-08-10"
       },
       "geometry": {
         "type": "Point",
@@ -9837,8 +9837,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-09-16"
+        "active": "navy",
+        "date": "2021-06-16"
       },
       "geometry": {
         "type": "Point",
@@ -9923,7 +9923,7 @@
         "TypeOf": "Pedestrian Counter - Beam",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-29"
       },
       "geometry": {
@@ -9965,8 +9965,8 @@
         "InstallLocation": "Hanmer, Swamp Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-11"
+        "active": "navy",
+        "date": "2021-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -9988,7 +9988,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "yellow",
-        "date": "2020-07-14"
+        "date": "2021-01-30"
       },
       "geometry": {
         "type": "Point",
@@ -10032,7 +10032,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-13"
+        "date": "2021-07-08"
       },
       "geometry": {
         "type": "Point",
@@ -10054,7 +10054,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-20"
+        "date": "2021-07-20"
       },
       "geometry": {
         "type": "Point",
@@ -10075,7 +10075,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-08"
       },
       "geometry": {
@@ -10097,8 +10097,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "red",
-        "date": "2020-02-12"
+        "active": "navy",
+        "date": "2021-07-25"
       },
       "geometry": {
         "type": "Point",
@@ -10141,7 +10141,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-06"
       },
       "geometry": {
@@ -10163,8 +10163,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-01-20"
+        "active": "navy",
+        "date": "2021-08-10"
       },
       "geometry": {
         "type": "Point",
@@ -10207,7 +10207,7 @@
         "TypeOf": "Road",
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-12"
       },
       "geometry": {
@@ -10229,7 +10229,7 @@
         "TypeOf": "Road",
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-12"
       },
       "geometry": {
@@ -10252,7 +10252,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-01"
+        "date": "2021-06-10"
       },
       "geometry": {
         "type": "Point",
@@ -10296,7 +10296,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-11"
+        "date": "2021-08-15"
       },
       "geometry": {
         "type": "Point",
@@ -10318,7 +10318,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-20"
+        "date": "2021-08-15"
       },
       "geometry": {
         "type": "Point",
@@ -10340,7 +10340,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-06-28"
+        "date": "2021-08-02"
       },
       "geometry": {
         "type": "Point",
@@ -10361,8 +10361,8 @@
         "TypeOf": "Bicycle Counter - Twin Rail",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-09-16"
+        "active": "navy",
+        "date": "2021-06-16"
       },
       "geometry": {
         "type": "Point",
@@ -10406,7 +10406,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-26"
+        "date": "2021-07-19"
       },
       "geometry": {
         "type": "Point",
@@ -10428,7 +10428,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-10"
+        "date": "2021-08-16"
       },
       "geometry": {
         "type": "Point",
@@ -10450,7 +10450,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-29"
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -10472,7 +10472,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-21"
+        "date": "2021-07-13"
       },
       "geometry": {
         "type": "Point",
@@ -10494,7 +10494,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-28"
+        "date": "2021-07-26"
       },
       "geometry": {
         "type": "Point",
@@ -10558,7 +10558,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-15"
       },
       "geometry": {
@@ -10581,7 +10581,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-11"
+        "date": "2021-07-02"
       },
       "geometry": {
         "type": "Point",
@@ -10624,8 +10624,8 @@
         "TypeOf": "Vehicle Counter - Low Speed",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "red",
-        "date": "2019-02-10"
+        "active": "yellow",
+        "date": "2021-01-02"
       },
       "geometry": {
         "type": "Point",
@@ -10646,8 +10646,8 @@
         "TypeOf": "",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-02"
+        "active": "navy",
+        "date": "2021-06-16"
       },
       "geometry": {
         "type": "Point",
@@ -10690,7 +10690,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-10"
       },
       "geometry": {
@@ -10712,7 +10712,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-28"
       },
       "geometry": {
@@ -10757,7 +10757,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-12"
+        "date": "2021-08-09"
       },
       "geometry": {
         "type": "Point",
@@ -10777,7 +10777,7 @@
         "InstallLocation": "Godley Head Road",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-27"
       },
       "geometry": {
@@ -10822,7 +10822,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-12"
+        "date": "2021-06-17"
       },
       "geometry": {
         "type": "Point",
@@ -10865,7 +10865,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-07"
       },
       "geometry": {
@@ -10887,8 +10887,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
-        "date": "2021-04-30"
+        "active": "blue",
+        "date": "2021-05-27"
       },
       "geometry": {
         "type": "Point",
@@ -10910,7 +10910,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-18"
+        "date": "2021-07-28"
       },
       "geometry": {
         "type": "Point",
@@ -10932,7 +10932,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-16"
+        "date": "2021-07-15"
       },
       "geometry": {
         "type": "Point",
@@ -10954,7 +10954,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-16"
+        "date": "2021-07-15"
       },
       "geometry": {
         "type": "Point",
@@ -10976,7 +10976,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-11"
+        "date": "2021-07-07"
       },
       "geometry": {
         "type": "Point",
@@ -10998,7 +10998,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-04"
+        "date": "2021-07-15"
       },
       "geometry": {
         "type": "Point",
@@ -11019,7 +11019,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-27"
       },
       "geometry": {
@@ -11041,7 +11041,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-12"
       },
       "geometry": {
@@ -11085,7 +11085,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-06"
       },
       "geometry": {
@@ -11173,8 +11173,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-12"
+        "active": "navy",
+        "date": "2021-07-01"
       },
       "geometry": {
         "type": "Point",
@@ -11240,7 +11240,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-03"
+        "date": "2021-07-22"
       },
       "geometry": {
         "type": "Point",
@@ -11261,8 +11261,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "red",
-        "date": "2019-11-19"
+        "active": "yellow",
+        "date": "2020-07-30"
       },
       "geometry": {
         "type": "Point",
@@ -11283,7 +11283,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-11"
       },
       "geometry": {
@@ -11305,7 +11305,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-03"
       },
       "geometry": {
@@ -11328,7 +11328,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-17"
+        "date": "2021-08-01"
       },
       "geometry": {
         "type": "Point",
@@ -11372,7 +11372,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-26"
+        "date": "2021-08-15"
       },
       "geometry": {
         "type": "Point",
@@ -11393,8 +11393,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-16"
+        "active": "navy",
+        "date": "2021-08-16"
       },
       "geometry": {
         "type": "Point",
@@ -11415,7 +11415,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-07"
       },
       "geometry": {
@@ -11501,7 +11501,7 @@
         "InstallLocation": "Wairere Falls Track, upper",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-07"
       },
       "geometry": {
@@ -11523,7 +11523,7 @@
         "TypeOf": "Pedestrian",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-15"
       },
       "geometry": {
@@ -11545,7 +11545,7 @@
         "TypeOf": "Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-14"
       },
       "geometry": {
@@ -11611,7 +11611,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-17"
       },
       "geometry": {
@@ -11677,7 +11677,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-27"
       },
       "geometry": {
@@ -11699,7 +11699,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-12"
       },
       "geometry": {
@@ -11722,7 +11722,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-07-20"
+        "date": "2021-08-12"
       },
       "geometry": {
         "type": "Point",
@@ -11744,7 +11744,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-20"
+        "date": "2021-07-26"
       },
       "geometry": {
         "type": "Point",
@@ -11766,7 +11766,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-07-06"
+        "date": "2021-08-02"
       },
       "geometry": {
         "type": "Point",
@@ -11788,7 +11788,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-17"
+        "date": "2021-08-31"
       },
       "geometry": {
         "type": "Point",
@@ -11832,7 +11832,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-31"
+        "date": "2021-06-29"
       },
       "geometry": {
         "type": "Point",
@@ -11852,7 +11852,7 @@
         "InstallLocation": "Bealey Spur Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-10"
       },
       "geometry": {
@@ -11874,7 +11874,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-27"
       },
       "geometry": {
@@ -11896,7 +11896,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-14"
       },
       "geometry": {
@@ -11919,7 +11919,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-15"
+        "date": "2021-05-29"
       },
       "geometry": {
         "type": "Point",
@@ -11941,7 +11941,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-15"
+        "date": "2021-05-28"
       },
       "geometry": {
         "type": "Point",
@@ -11984,7 +11984,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-10"
+        "date": "2021-08-02"
       },
       "geometry": {
         "type": "Point",
@@ -12006,7 +12006,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-15"
+        "date": "2021-05-29"
       },
       "geometry": {
         "type": "Point",
@@ -12028,7 +12028,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-15"
+        "date": "2021-05-29"
       },
       "geometry": {
         "type": "Point",
@@ -12049,8 +12049,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-10"
+        "active": "navy",
+        "date": "2021-07-29"
       },
       "geometry": {
         "type": "Point",
@@ -12072,7 +12072,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-26"
+        "date": "2021-07-25"
       },
       "geometry": {
         "type": "Point",
@@ -12094,7 +12094,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-28"
+        "date": "2021-07-26"
       },
       "geometry": {
         "type": "Point",
@@ -12116,7 +12116,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-07-10"
+        "date": "2021-07-25"
       },
       "geometry": {
         "type": "Point",
@@ -12137,8 +12137,8 @@
         "TypeOf": "Bicycle Counter - Twin Rail",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-09-11"
+        "active": "navy",
+        "date": "2021-07-15"
       },
       "geometry": {
         "type": "Point",
@@ -12182,7 +12182,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-07-26"
+        "date": "2021-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -12204,7 +12204,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-24"
+        "date": "2021-05-06"
       },
       "geometry": {
         "type": "Point",
@@ -12226,7 +12226,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-06"
+        "date": "2021-08-13"
       },
       "geometry": {
         "type": "Point",
@@ -12247,8 +12247,8 @@
         "TypeOf": "Bicycle Counter - Twin Rail",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-01-19"
+        "active": "navy",
+        "date": "2021-06-23"
       },
       "geometry": {
         "type": "Point",
@@ -12269,8 +12269,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-01-06"
+        "active": "navy",
+        "date": "2021-06-23"
       },
       "geometry": {
         "type": "Point",
@@ -12291,7 +12291,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-29"
+        "date": "2021-07-14"
       },
       "geometry": {
         "type": "Point",
@@ -12334,7 +12334,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-08"
+        "date": "2021-08-10"
       },
       "geometry": {
         "type": "Point",
@@ -12355,7 +12355,7 @@
         "TypeOf": "Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-21"
       },
       "geometry": {
@@ -12377,7 +12377,7 @@
         "TypeOf": "Pedestrian",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-05"
       },
       "geometry": {
@@ -12399,8 +12399,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-22"
+        "active": "navy",
+        "date": "2021-08-08"
       },
       "geometry": {
         "type": "Point",
@@ -12421,8 +12421,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-16"
+        "active": "navy",
+        "date": "2021-08-08"
       },
       "geometry": {
         "type": "Point",
@@ -12443,8 +12443,8 @@
         "TypeOf": "Bicycle Counter - Twin Rail",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-08-02"
+        "active": "navy",
+        "date": "2021-07-04"
       },
       "geometry": {
         "type": "Point",
@@ -12466,7 +12466,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-11"
+        "date": "2021-08-03"
       },
       "geometry": {
         "type": "Point",
@@ -12488,7 +12488,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-11"
+        "date": "2021-06-10"
       },
       "geometry": {
         "type": "Point",
@@ -12510,7 +12510,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-10"
+        "date": "2021-08-02"
       },
       "geometry": {
         "type": "Point",
@@ -12530,7 +12530,7 @@
         "InstallLocation": "Davies Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-06"
       },
       "geometry": {
@@ -12552,7 +12552,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-07"
       },
       "geometry": {
@@ -12596,7 +12596,7 @@
         "TypeOf": "Vehicle Counter - Low Speed",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-12"
       },
       "geometry": {
@@ -12619,7 +12619,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-20"
+        "date": "2021-07-26"
       },
       "geometry": {
         "type": "Point",
@@ -12662,7 +12662,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-23"
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -12683,7 +12683,7 @@
         "TypeOf": "Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-13"
       },
       "geometry": {
@@ -12705,7 +12705,7 @@
         "TypeOf": "Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-12"
       },
       "geometry": {
@@ -12728,7 +12728,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-12"
+        "date": "2021-06-25"
       },
       "geometry": {
         "type": "Point",
@@ -12750,7 +12750,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-02"
+        "date": "2021-07-26"
       },
       "geometry": {
         "type": "Point",
@@ -12772,7 +12772,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-24"
+        "date": "2021-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -12793,8 +12793,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-11-05"
+        "active": "navy",
+        "date": "2021-06-29"
       },
       "geometry": {
         "type": "Point",
@@ -12815,7 +12815,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
+        "active": "red",
         "date": "2020-06-04"
       },
       "geometry": {
@@ -12881,7 +12881,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-20"
       },
       "geometry": {
@@ -12903,7 +12903,7 @@
         "TypeOf": "Vehicle Counter - Low Speed",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-03-29"
       },
       "geometry": {
@@ -12926,7 +12926,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-03-30"
+        "date": "2021-08-16"
       },
       "geometry": {
         "type": "Point",
@@ -12947,8 +12947,8 @@
         "TypeOf": "Vehicle Counter - Low Speed",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-05"
+        "active": "navy",
+        "date": "2021-07-28"
       },
       "geometry": {
         "type": "Point",
@@ -12969,8 +12969,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-16"
+        "active": "navy",
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -12992,7 +12992,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-28"
+        "date": "2021-08-05"
       },
       "geometry": {
         "type": "Point",
@@ -13013,7 +13013,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-03-30"
       },
       "geometry": {
@@ -13079,7 +13079,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-15"
+        "date": "2021-07-28"
       },
       "geometry": {
         "type": "Point",
@@ -13101,7 +13101,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-17"
+        "date": "2021-07-29"
       },
       "geometry": {
         "type": "Point",
@@ -13123,7 +13123,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-11"
+        "date": "2021-07-01"
       },
       "geometry": {
         "type": "Point",
@@ -13166,8 +13166,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-22"
+        "active": "navy",
+        "date": "2021-09-06"
       },
       "geometry": {
         "type": "Point",
@@ -13210,7 +13210,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-08"
+        "date": "2021-08-09"
       },
       "geometry": {
         "type": "Point",
@@ -13231,8 +13231,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
-        "date": "2021-04-15"
+        "active": "blue",
+        "date": "2021-05-16"
       },
       "geometry": {
         "type": "Point",
@@ -13252,7 +13252,7 @@
         "InstallLocation": "Tongariro Xing, North Crater",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-02"
       },
       "geometry": {
@@ -13275,7 +13275,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-03"
+        "date": "2021-06-08"
       },
       "geometry": {
         "type": "Point",
@@ -13297,7 +13297,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-13"
+        "date": "2021-07-28"
       },
       "geometry": {
         "type": "Point",
@@ -13361,7 +13361,7 @@
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-08-16"
       },
       "geometry": {
         "type": "Point",
@@ -13382,7 +13382,7 @@
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-08-16"
       },
       "geometry": {
         "type": "Point",
@@ -13403,7 +13403,7 @@
         "TypeOf": "Road",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-11"
       },
       "geometry": {
@@ -13445,7 +13445,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-25"
+        "date": "2021-08-03"
       },
       "geometry": {
         "type": "Point",
@@ -13466,7 +13466,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-02"
+        "date": "2021-07-25"
       },
       "geometry": {
         "type": "Point",
@@ -13486,7 +13486,7 @@
         "InstallLocation": "",
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-21"
       },
       "geometry": {
@@ -13508,7 +13508,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-03"
+        "date": "2021-08-06"
       },
       "geometry": {
         "type": "Point",
@@ -13529,7 +13529,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-11"
+        "date": "2021-08-03"
       },
       "geometry": {
         "type": "Point",
@@ -13549,7 +13549,7 @@
         "InstallLocation": "Rangataua Road",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-17"
       },
       "geometry": {
@@ -13571,7 +13571,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-17"
+        "date": "2021-08-06"
       },
       "geometry": {
         "type": "Point",
@@ -13591,8 +13591,8 @@
         "InstallLocation": "Mt Somers Tk, Pinnacles Hut",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "red",
-        "date": "2020-01-06"
+        "active": "navy",
+        "date": "2021-06-29"
       },
       "geometry": {
         "type": "Point",
@@ -13613,7 +13613,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-11"
       },
       "geometry": {
@@ -13657,7 +13657,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-28"
+        "date": "2021-07-25"
       },
       "geometry": {
         "type": "Point",
@@ -13679,7 +13679,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-26"
+        "date": "2021-06-28"
       },
       "geometry": {
         "type": "Point",
@@ -13700,8 +13700,8 @@
         "TypeOf": "Vehicle Counter - Low Speed",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-24"
+        "active": "navy",
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -13744,7 +13744,7 @@
         "TypeOf": "Vehicle Counter - Low Speed",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-01-27"
       },
       "geometry": {
@@ -13767,7 +13767,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-09"
+        "date": "2021-09-06"
       },
       "geometry": {
         "type": "Point",
@@ -13874,7 +13874,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-30"
+        "date": "2021-07-20"
       },
       "geometry": {
         "type": "Point",
@@ -13917,7 +13917,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-06-17"
+        "date": "2021-07-14"
       },
       "geometry": {
         "type": "Point",
@@ -13960,7 +13960,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-30"
+        "date": "2021-06-16"
       },
       "geometry": {
         "type": "Point",
@@ -13982,7 +13982,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-29"
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -14025,7 +14025,7 @@
         "TypeOf": "Vehicle Counter - Low Speed",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-05-01"
       },
       "geometry": {
@@ -14069,7 +14069,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-03-30"
+        "date": "2021-08-15"
       },
       "geometry": {
         "type": "Point",
@@ -14091,7 +14091,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-27"
+        "date": "2021-09-03"
       },
       "geometry": {
         "type": "Point",
@@ -14112,8 +14112,8 @@
         "TypeOf": "Vehicle Counter - Low Speed",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-05"
+        "active": "navy",
+        "date": "2021-07-28"
       },
       "geometry": {
         "type": "Point",
@@ -14197,7 +14197,7 @@
         "TypeOf": "Road",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-13"
       },
       "geometry": {
@@ -14286,7 +14286,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-04-01"
+        "date": "2021-09-01"
       },
       "geometry": {
         "type": "Point",
@@ -14307,8 +14307,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-05-12"
+        "active": "navy",
+        "date": "2021-09-06"
       },
       "geometry": {
         "type": "Point",
@@ -14330,7 +14330,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-03"
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -14351,7 +14351,7 @@
         "TypeOf": "Vehicle Counter - Low Speed",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-12"
       },
       "geometry": {
@@ -14374,7 +14374,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-14"
+        "date": "2021-09-03"
       },
       "geometry": {
         "type": "Point",
@@ -14396,7 +14396,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-26"
+        "date": "2021-09-04"
       },
       "geometry": {
         "type": "Point",
@@ -14418,7 +14418,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-23"
+        "date": "2021-07-29"
       },
       "geometry": {
         "type": "Point",
@@ -14439,7 +14439,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-27"
       },
       "geometry": {
@@ -14462,7 +14462,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-07-19"
+        "date": "2021-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -14484,7 +14484,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-10"
+        "date": "2021-07-15"
       },
       "geometry": {
         "type": "Point",
@@ -14526,7 +14526,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-23"
       },
       "geometry": {
@@ -14548,7 +14548,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-22"
       },
       "geometry": {
@@ -14571,7 +14571,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-21"
+        "date": "2021-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -14592,7 +14592,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "red"
+        "active": "yellow",
+        "date": "2021-03-30"
       },
       "geometry": {
         "type": "Point",
@@ -14614,7 +14615,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-03-14"
+        "date": "2021-07-12"
       },
       "geometry": {
         "type": "Point",
@@ -14680,7 +14681,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-06-21"
+        "date": "2021-08-07"
       },
       "geometry": {
         "type": "Point",
@@ -14702,7 +14703,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-22"
+        "date": "2021-08-06"
       },
       "geometry": {
         "type": "Point",
@@ -14724,7 +14725,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-12"
+        "date": "2021-07-27"
       },
       "geometry": {
         "type": "Point",
@@ -14746,7 +14747,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-03-10"
+        "date": "2021-07-09"
       },
       "geometry": {
         "type": "Point",
@@ -14767,7 +14768,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "yellow",
         "date": "2021-03-07"
       },
       "geometry": {
@@ -14789,7 +14790,7 @@
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-17"
+        "date": "2021-07-19"
       },
       "geometry": {
         "type": "Point",
@@ -14810,7 +14811,7 @@
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-04-26"
+        "date": "2021-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -14832,7 +14833,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-10"
+        "date": "2021-09-02"
       },
       "geometry": {
         "type": "Point",
@@ -14852,7 +14853,7 @@
         "InstallLocation": "",
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-03-23"
       },
       "geometry": {
@@ -14873,7 +14874,7 @@
         "InstallLocation": "",
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-03-23"
       },
       "geometry": {
@@ -14894,8 +14895,8 @@
         "InstallLocation": "",
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-09-27"
+        "active": "blue",
+        "date": "2021-09-05"
       },
       "geometry": {
         "type": "Point",
@@ -14917,7 +14918,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-04-27"
+        "date": "2021-08-24"
       },
       "geometry": {
         "type": "Point",
@@ -14938,7 +14939,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-22"
       },
       "geometry": {
@@ -14960,7 +14961,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-21"
       },
       "geometry": {
@@ -15004,7 +15005,7 @@
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-04-27"
+        "date": "2021-07-31"
       },
       "geometry": {
         "type": "Point",
@@ -15090,7 +15091,7 @@
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-18"
+        "date": "2021-05-29"
       },
       "geometry": {
         "type": "Point",
@@ -15112,7 +15113,7 @@
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-16"
+        "date": "2021-05-29"
       },
       "geometry": {
         "type": "Point",
@@ -15134,7 +15135,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-18"
+        "date": "2021-05-29"
       },
       "geometry": {
         "type": "Point",
@@ -15155,7 +15156,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-02-03"
       },
       "geometry": {
@@ -15243,7 +15244,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-03-26"
       },
       "geometry": {
@@ -15287,7 +15288,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-03-26"
       },
       "geometry": {
@@ -15310,7 +15311,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-03-05"
+        "date": "2021-07-07"
       },
       "geometry": {
         "type": "Point",
@@ -15332,7 +15333,7 @@
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-10"
+        "date": "2021-06-17"
       },
       "geometry": {
         "type": "Point",
@@ -15353,8 +15354,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-02-18"
+        "active": "navy",
+        "date": "2021-06-16"
       },
       "geometry": {
         "type": "Point",
@@ -15376,7 +15377,7 @@
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-28"
+        "date": "2021-09-03"
       },
       "geometry": {
         "type": "Point",
@@ -15398,7 +15399,7 @@
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-04-22"
+        "date": "2021-08-02"
       },
       "geometry": {
         "type": "Point",
@@ -15420,7 +15421,7 @@
         "CounterNetwork": "",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-04"
+        "date": "2021-07-18"
       },
       "geometry": {
         "type": "Point",
@@ -15442,7 +15443,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-01-05"
+        "date": "2021-07-17"
       },
       "geometry": {
         "type": "Point",
@@ -15464,7 +15465,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-01-08"
+        "date": "2021-07-21"
       },
       "geometry": {
         "type": "Point",
@@ -15486,7 +15487,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-05"
+        "date": "2021-07-11"
       },
       "geometry": {
         "type": "Point",
@@ -15508,7 +15509,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-26"
+        "date": "2021-07-27"
       },
       "geometry": {
         "type": "Point",
@@ -15530,7 +15531,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-04-28"
+        "date": "2021-07-27"
       },
       "geometry": {
         "type": "Point",
@@ -15552,7 +15553,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-04-25"
+        "date": "2021-07-23"
       },
       "geometry": {
         "type": "Point",
@@ -15573,8 +15574,8 @@
         "TypeOf": "Bicycle Counter - Twin Rail",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-09-29"
+        "active": "navy",
+        "date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -15596,7 +15597,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-03-30"
+        "date": "2021-07-31"
       },
       "geometry": {
         "type": "Point",
@@ -15617,7 +15618,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-03-31"
       },
       "geometry": {
@@ -15640,7 +15641,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-04-28"
+        "date": "2021-07-20"
       },
       "geometry": {
         "type": "Point",
@@ -15661,8 +15662,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
-        "date": "2021-03-11"
+        "active": "navy",
+        "date": "2021-08-05"
       },
       "geometry": {
         "type": "Point",
@@ -15726,7 +15727,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-04"
+        "date": "2021-07-26"
       },
       "geometry": {
         "type": "Point",
@@ -15747,7 +15748,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-03-08"
       },
       "geometry": {
@@ -15770,7 +15771,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-03-29"
+        "date": "2021-07-06"
       },
       "geometry": {
         "type": "Point",
@@ -15792,7 +15793,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "navy",
-        "date": "2021-05-10"
+        "date": "2021-08-05"
       },
       "geometry": {
         "type": "Point",
@@ -15814,7 +15815,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-04-26"
+        "date": "2021-06-24"
       },
       "geometry": {
         "type": "Point",
@@ -15919,7 +15920,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-03-04"
       },
       "geometry": {
@@ -15942,7 +15943,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-26"
+        "date": "2021-07-25"
       },
       "geometry": {
         "type": "Point",
@@ -15964,7 +15965,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-04-27"
+        "date": "2021-07-25"
       },
       "geometry": {
         "type": "Point",
@@ -16006,7 +16007,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
+        "active": "red",
         "date": "2020-06-18"
       },
       "geometry": {
@@ -16028,7 +16029,8 @@
         "TypeOf": "Bicycle Counter - Twin Rail",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "red"
+        "active": "blue",
+        "date": "2021-06-12"
       },
       "geometry": {
         "type": "Point",
@@ -16050,7 +16052,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-07"
+        "date": "2021-06-14"
       },
       "geometry": {
         "type": "Point",
@@ -16072,7 +16074,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-17"
+        "date": "2021-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -16115,7 +16117,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-17"
+        "date": "2021-08-05"
       },
       "geometry": {
         "type": "Point",
@@ -16137,7 +16139,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-04"
+        "date": "2021-07-01"
       },
       "geometry": {
         "type": "Point",
@@ -16180,7 +16182,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-09"
+        "date": "2021-08-31"
       },
       "geometry": {
         "type": "Point",
@@ -16202,7 +16204,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-10"
+        "date": "2021-06-30"
       },
       "geometry": {
         "type": "Point",
@@ -16224,7 +16226,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-07-07"
+        "date": "2021-08-10"
       },
       "geometry": {
         "type": "Point",
@@ -16266,8 +16268,8 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "yellow",
-        "date": "2020-12-21"
+        "active": "blue",
+        "date": "2021-07-14"
       },
       "geometry": {
         "type": "Point",
@@ -16288,7 +16290,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "active": "blue",
+        "active": "yellow",
         "date": "2021-03-30"
       },
       "geometry": {
@@ -16311,7 +16313,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-02-28"
+        "date": "2021-09-06"
       },
       "geometry": {
         "type": "Point",
@@ -16333,7 +16335,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-04-15"
+        "date": "2021-09-01"
       },
       "geometry": {
         "type": "Point",
@@ -16377,7 +16379,7 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-05-25"
+        "date": "2021-07-27"
       },
       "geometry": {
         "type": "Point",
@@ -16399,7 +16401,7 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "active": "blue",
-        "date": "2021-04-20"
+        "date": "2021-08-10"
       },
       "geometry": {
         "type": "Point",
@@ -16420,7 +16422,8 @@
         "TypeOf": "Track",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "red"
+        "active": "blue",
+        "date": "2021-06-17"
       },
       "geometry": {
         "type": "Point",
@@ -16441,7 +16444,7 @@
         "TypeOf": "Pedestrian Counter - Pad",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "active": "navy",
+        "active": "blue",
         "date": "2021-04-07"
       },
       "geometry": {
